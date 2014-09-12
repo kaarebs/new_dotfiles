@@ -1,0 +1,9 @@
+pane	7	1	:zsh	1	:*	1	:/home/kaarebs	1	zsh	:
+pane	tis	1	:vim	1	:*	1	:/home/kaarebs/Projects/newtweaker2	1	zsh	:
+pane	tis	2	:frontend	0	:-	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend	1	zsh	:
+pane	tis	3	:compile	0	: 	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app	1	node	:node
+window	7	1	1	:*	bbe5,239x62,0,0,8
+window	tis	1	1	:*	bbde,239x62,0,0,1
+window	tis	2	0	:-	bbdf,239x62,0,0,2
+window	tis	3	0	: 	bbe6,239x62,0,0,9
+state	tis	

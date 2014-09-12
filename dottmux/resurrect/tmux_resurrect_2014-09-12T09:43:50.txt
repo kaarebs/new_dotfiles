@@ -1,0 +1,31 @@
+pane	kplan	1	:com.run	1	:*	1	:/home/kaarebs/Projects/kplanner	1	zsh	:
+pane	kplan	2	:edit	0	:#	1	:/home/kaarebs/Projects/kplanner	1	vim	:vim
+pane	kplan	3	:cmd	0	:-	1	:/home/kaarebs/tmp/jedis/target	1	zsh	:vim
+pane	kplan	4	:redis	0	:#	1	:/home/kaarebs/kaarebs/redis/src	1	zsh	:
+pane	poi	1	:vim	1	:*	1	:/home/kaarebs/Projects/poi/Packages/Application	1	zsh	:
+pane	renderclient	1	:vim	0	:#-	1	:/home/kaarebs/Projects/ruby-renderclient	1	vim	:vim
+pane	renderclient	2	:execu	1	:*	1	:/home/kaarebs/Projects/ruby-renderclient	1	zsh	:
+pane	tweaker2	1	:vim	0	:#-	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application	1	zsh	:
+pane	tweaker2	2	:frontend	1	:*	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend	1	zsh	:
+pane	tweaker2	3	:compile	0	:#	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app	1	node	:node
+pane	tweaker2	4	:zsh	0	:#	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app/models/VideoSystem/Operations	1	zsh	:
+pane	voiceselector	1	:vim-admin	1	:*	1	:/home/kaarebs/Projects/voiceselector/app/frontend/admin	1	zsh	:vim
+pane	voiceselector	2	:rails	0	:#	1	:/home/kaarebs/Projects/voiceselector	1	ruby	:ruby
+pane	voiceselector	3	:grunt	0	:#	1	:/home/kaarebs/Projects/voiceselector/app/frontend/admin	1	grunt	:grunt
+pane	voiceselector	4	:client	0	:#-	1	:/home/kaarebs/Projects/voiceselector/app/assets/javascripts	1	zsh	:
+window	kplan	1	1	:*	5e25,239x62,0,0,16
+window	kplan	2	0	:#	5e27,239x62,0,0,18
+window	kplan	3	0	:-	5e28,239x62,0,0,19
+window	kplan	4	0	:#	de23,239x62,0,0,24
+window	poi	1	1	:*	de20,239x62,0,0,21
+window	renderclient	1	0	:#-	da51,170x42,0,0,22
+window	renderclient	2	1	:*	da52,170x42,0,0,23
+window	tweaker2	1	0	:#-	bbde,239x62,0,0,1
+window	tweaker2	2	1	:*	bbdf,239x62,0,0,2
+window	tweaker2	3	0	:#	bbe6,239x62,0,0,9
+window	tweaker2	4	0	:#	5e1f,239x62,0,0,10
+window	voiceselector	1	1	:*	bbe5,239x62,0,0,8
+window	voiceselector	2	0	:#	5e20,239x62,0,0,11
+window	voiceselector	3	0	:#	5e21,239x62,0,0,12
+window	voiceselector	4	0	:#-	5e22,239x62,0,0,13
+state	kplan	renderclient

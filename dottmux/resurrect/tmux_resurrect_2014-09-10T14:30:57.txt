@@ -1,0 +1,17 @@
+pane	tweaker2	1	:vim	0	:-	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application	1	zsh	:
+pane	tweaker2	2	:frontend	1	:*	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend	1	zsh	:
+pane	tweaker2	3	:compile	0	:#	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app	1	node	:node
+pane	tweaker2	4	:zsh	0	: 	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app/models/VideoSystem/Operations	1	zsh	:
+pane	voiceselector	1	:vim-admin	0	:-	1	:/home/kaarebs/Projects/voiceselector	1	zsh	:
+pane	voiceselector	2	:rails	0	:#	1	:/home/kaarebs/Projects/voiceselector	1	ruby	:ruby
+pane	voiceselector	3	:grunt	1	:*	1	:/home/kaarebs/Projects/voiceselector/app/frontend/admin	1	grunt	:grunt
+pane	voiceselector	4	:client	0	: 	1	:/home/kaarebs/Projects	1	zsh	:
+window	tweaker2	1	0	:-	bbde,239x62,0,0,1
+window	tweaker2	2	1	:*	bbdf,239x62,0,0,2
+window	tweaker2	3	0	:#	bbe6,239x62,0,0,9
+window	tweaker2	4	0	: 	5e1f,239x62,0,0,10
+window	voiceselector	1	0	:-	bbe5,239x62,0,0,8
+window	voiceselector	2	0	:#	5e20,239x62,0,0,11
+window	voiceselector	3	1	:*	5e21,239x62,0,0,12
+window	voiceselector	4	0	: 	5e22,239x62,0,0,13
+state	voiceselector	tweaker2

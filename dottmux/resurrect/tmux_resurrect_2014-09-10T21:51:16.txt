@@ -1,0 +1,21 @@
+pane	kplan	1	:com.run	1	:*	1	:/home/kaarebs/Projects/kplanner	1	zsh	:
+pane	kplan	2	:edit	0	:-	1	:/home/kaarebs/Projects/kplanner	1	vim	:vim
+pane	tweaker2	1	:vim	0	:#-	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application	1	zsh	:
+pane	tweaker2	2	:frontend	1	:*	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend	1	zsh	:
+pane	tweaker2	3	:compile	0	:#	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app	1	node	:node
+pane	tweaker2	4	:zsh	0	:#	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app/models/VideoSystem/Operations	1	zsh	:
+pane	voiceselector	1	:vim-admin	1	:*	1	:/home/kaarebs/Projects/voiceselector/app/frontend/admin	1	zsh	:vim
+pane	voiceselector	2	:rails	0	:#	1	:/home/kaarebs/Projects/voiceselector	1	ruby	:ruby
+pane	voiceselector	3	:grunt	0	:#	1	:/home/kaarebs/Projects/voiceselector/app/frontend/admin	1	grunt	:grunt
+pane	voiceselector	4	:client	0	:#-	1	:/home/kaarebs/Projects/voiceselector/app/assets/javascripts	1	zsh	:
+window	kplan	1	1	:*	6995,194x49,0,0,16
+window	kplan	2	0	:-	6997,194x49,0,0,18
+window	tweaker2	1	0	:#-	d2be,194x49,0,0,1
+window	tweaker2	2	1	:*	d2bf,194x49,0,0,2
+window	tweaker2	3	0	:#	d2c6,194x49,0,0,9
+window	tweaker2	4	0	:#	698f,194x49,0,0,10
+window	voiceselector	1	1	:*	b445,170x42,0,0,8
+window	voiceselector	2	0	:#	5a50,170x42,0,0,11
+window	voiceselector	3	0	:#	5a51,170x42,0,0,12
+window	voiceselector	4	0	:#-	5a52,170x42,0,0,13
+state	tweaker2	kplan
