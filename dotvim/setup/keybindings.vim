@@ -32,6 +32,11 @@ noremap + <C-W>>
 noremap <A-j> <C-W>-
 noremap <A-k> <C-W>+
 
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
+
 " Open splits with leader
 noremap <leader>vs :vs %<cr>
 noremap <leader>ss :split %<cr>
@@ -61,8 +66,6 @@ nnoremap <Leader>9 :9b<CR>
 nnoremap <Leader>0 :10b<CR>
 " " It's useful to show the buffer number in the status line.
 set laststatus=2 statusline=%02n:%<%f\ %h%m%r%=%-14.(%l,%c%V%)\ %P
-:nnoremap <C-k> :bnext<CR>
-:nnoremap <C-j> :bprevious<CR>
 
 " lorte binding
 nnoremap <tab><tab>r :!xdg-open "http://www.youtube.com/watch?v=Eky6bCnCLOI\#t=171"<cr>

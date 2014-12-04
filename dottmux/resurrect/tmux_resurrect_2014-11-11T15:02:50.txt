@@ -1,0 +1,88 @@
+pane	0	1	:zsh	1	:*	1	:/home/kaarebs	1	zsh	:
+pane	12	1	:zsh	1	:*	1	:/home/kaarebs/Projects/newtweaker2	1	zsh	:
+pane	combine	1	:vim	1	:*	1	:/home/kaarebs/git-repos/combineserver	1	zsh	:
+pane	default	1	:cmd	1	:*	1	:/home/kaarebs/git-repos/chef-repo	1	vim	:vim
+pane	filedeliverer	1	:zsh	0	:#-	1	:/home/kaarebs/Projects/file_deliverer	1	vim	:vim
+pane	filedeliverer	1	:zsh	0	:#-	2	:/home/kaarebs/Projects/system-deploy/Application	0	zsh	:
+pane	filedeliverer	2	:zsh	1	:*	1	:/home/kaarebs/Projects/file_deliverer	1	zsh	:
+pane	filedeliverer	3	:zsh	0	:#	1	:/home/kaarebs/Projects/system-deploy/Application	1	zsh	:
+pane	kplan	1	:com.run	0	:#	1	:/home/kaarebs/Projects/kplanner	1	zsh	:
+pane	kplan	2	:edit	1	:*	1	:/home/kaarebs/Projects/kplanner	1	vim	:vim
+pane	kplan	3	:cmd	0	:-	1	:/home/kaarebs/Projects/kplanner/src/services	1	vim	:vim
+pane	kplan	4	:redis	0	: 	1	:/home/kaarebs/kaarebs/redis/src	1	zsh	:
+pane	poi	1	:cmd	1	:*	1	:/home/kaarebs/Projects/poi/Packages/Application/ArnsboMedia.ApmPoi	1	vim	:vim
+pane	poi	2	:ssh	0	:#	1	:/home/kaarebs/Projects/poi	1	zsh	:
+pane	poi	3	:zsh	0	:#-	1	:/home/kaarebs/Projects/poi	1	zsh	:
+pane	poi	4	:zsh	0	: 	1	:/home/kaarebs/Projects/poi/Packages/Application/ArnsboMedia.ApmPoi/Configuration	1	zsh	:
+pane	renderclient	1	:vim	1	:*	1	:/home/kaarebs/Projects/ruby-renderclient	1	vim	:vim
+pane	renderclient	2	:zsh	0	: 	1	:/home/kaarebs/Projects/ruby-renderclient	1	zsh	:
+pane	renderclient	3	:runner	0	:-	1	:/home/kaarebs/Projects/ruby-renderclient	1	zsh	:
+pane	renderserver	1	:vim	1	:*	1	:/home/kaarebs/Projects/renderserver	1	zsh	:
+pane	renderserver	2	:cmd	0	:#	1	:/home/kaarebs/Projects/renderserver	1	zsh	:
+pane	renderserver	3	:zsh	0	:-	1	:/home/kaarebs/Projects/renderserver	1	zsh	:
+pane	systemet	1	:vim	0	:-	1	:/home/kaarebs/Projects/Systemet/Application	1	zsh	:vim
+pane	systemet	2	:js	1	:*	1	:/home/kaarebs/Projects/Systemet/config	1	vim	:vim
+pane	systemet	3	:log	0	: 	1	:/tmp	1	zsh	:
+pane	systemet	4	:redis	0	: 	1	:/tmp	1	redis-server	:redis-server
+pane	systemet	5	:rramework	0	: 	1	:/home/kaarebs/Projects/Systemet/Framework	1	vim	:vim
+pane	systemet	6	:zsh	0	: 	1	:/home/kaarebs/Projects/Systemet	1	foreman	:ruby
+pane	systemet	7	:zsh	0	: 	1	:/home/kaarebs/Projects/Systemet/Application	1	zsh	:
+pane	tweaker2	1	:vim	0	: 	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application	1	vim	:vim
+pane	tweaker2	2	:frontend	0	: 	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker	1	zsh	:
+pane	tweaker2	3	:compile	0	: 	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app	1	zsh	:
+pane	tweaker2	4	:ssh	1	:*	1	:/home/kaarebs/Projects/newtweaker2/Configuration/Development	1	zsh	:
+pane	tweaker2	5	:log	0	:#	1	:/home/kaarebs/Projects/newtweaker2/Data/Logs	1	tail	:tail
+pane	tweaker2	6	:zsh	0	:-	1	:/home/kaarebs/Projects/newtweaker2	1	zsh	:
+pane	tweakerprocessor	1	:vim	1	:*	1	:/home/kaarebs/Projects/tweaker_processor	1	vim	:vim
+pane	voiceselector	1	:vim-admin	1	:*	1	:/home/kaarebs/Projects/voiceselector	1	zsh	:
+pane	voiceselector	2	:rails	0	:#	1	:/home/kaarebs/Projects/voiceselector	1	zsh	:
+pane	voiceselector	3	:grunt	0	: 	1	:/home/kaarebs/Projects/voiceselector/app/frontend/admin	1	grunt	:grunt
+pane	voiceselector	4	:client	0	:-	1	:/home/kaarebs/Projects/voiceselector/app/assets	1	vim	:vim
+pane	voiceselector	5	:console	0	:#	1	:/home/kaarebs/Projects/voiceselector	1	zsh	:
+pane	voiceselector	6	:css	0	: 	1	:/home/kaarebs/Projects/voiceselector/app/assets/stylesheets	1	vim	:vim
+pane	voiceselector	7	:backend	0	: 	1	:/home/kaarebs/Projects/voiceselector/app/models	1	vim	:vim
+pane	voiceselector	8	:live	0	:#	1	:/home/kaarebs/Projects/voiceselector	1	zsh	:
+window	0	1	1	:*	b43d,170x42,0,0,0
+window	12	1	1	:*	dc64,274x71,0,0,44
+window	combine	1	1	:*	b85e,274x71,0,0,1
+window	default	1	1	:*	b85f,274x71,0,0,2
+window	filedeliverer	1	0	:#-	d0f9,274x71,0,0{136x71,0,0,3,137x71,137,0,4}
+window	filedeliverer	2	1	:*	b862,274x71,0,0,5
+window	filedeliverer	3	0	:#	b863,274x71,0,0,6
+window	kplan	1	0	:#	b864,274x71,0,0,7
+window	kplan	2	1	:*	b865,274x71,0,0,8
+window	kplan	3	0	:-	b866,274x71,0,0,9
+window	kplan	4	0	: 	5c5f,274x71,0,0,10
+window	poi	1	1	:*	5c60,274x71,0,0,11
+window	poi	2	0	:#	5c61,274x71,0,0,12
+window	poi	3	0	:#-	5c62,274x71,0,0,13
+window	poi	4	0	: 	5c63,274x71,0,0,14
+window	renderclient	1	1	:*	5c64,274x71,0,0,15
+window	renderclient	2	0	: 	5c65,274x71,0,0,16
+window	renderclient	3	0	:-	5c66,274x71,0,0,17
+window	renderserver	1	1	:*	5c67,274x71,0,0,18
+window	renderserver	2	0	:#	5c68,274x71,0,0,19
+window	renderserver	3	0	:-	dc5f,274x71,0,0,20
+window	systemet	1	0	:-	dc60,274x71,0,0,21
+window	systemet	2	1	:*	dc61,274x71,0,0,22
+window	systemet	3	0	: 	dc62,274x71,0,0,23
+window	systemet	4	0	: 	dc63,274x71,0,0,24
+window	systemet	5	0	: 	dc64,274x71,0,0,25
+window	systemet	6	0	: 	dc65,274x71,0,0,26
+window	systemet	7	0	: 	dc62,274x71,0,0,42
+window	tweaker2	1	0	: 	dc65,274x71,0,0,45
+window	tweaker2	2	0	: 	dc66,274x71,0,0,46
+window	tweaker2	3	0	: 	dc67,274x71,0,0,47
+window	tweaker2	4	1	:*	dc68,274x71,0,0,48
+window	tweaker2	5	0	:#	dc69,274x71,0,0,49
+window	tweaker2	6	0	:-	5c61,274x71,0,0,50
+window	tweakerprocessor	1	1	:*	5c63,274x71,0,0,33
+window	voiceselector	1	1	:*	5c64,274x71,0,0,34
+window	voiceselector	2	0	:#	5c65,274x71,0,0,35
+window	voiceselector	3	0	: 	5c66,274x71,0,0,36
+window	voiceselector	4	0	:-	5c67,274x71,0,0,37
+window	voiceselector	5	0	:#	5c68,274x71,0,0,38
+window	voiceselector	6	0	: 	5c69,274x71,0,0,39
+window	voiceselector	7	0	: 	dc60,274x71,0,0,40
+window	voiceselector	8	0	:#	dc61,274x71,0,0,41
+state	tweaker2	poi

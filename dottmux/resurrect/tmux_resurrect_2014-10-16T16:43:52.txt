@@ -1,0 +1,70 @@
+pane	0	1	:zsh	1	:*	1	:/home/kaarebs	1	zsh	:
+pane	14	1	:zsh	1	:*	1	:/home/kaarebs	1	zsh	:
+pane	16	1	:zsh	1	:*	1	:/home/kaarebs	1	zsh	:
+pane	combine	1	:vim	1	:*	1	:/home/kaarebs/git-repos/combineserver	1	zsh	:
+pane	default	1	:cmd	1	:*	1	:/home/kaarebs/git-repos/chef-repo	1	vim	:vim
+pane	filedeliverer	1	:zsh	0	:-	1	:/home/kaarebs/Projects/file_deliverer	1	vim	:vim
+pane	filedeliverer	1	:zsh	0	:-	2	:/home/kaarebs/Projects/system-deploy/Application	0	irb	:ruby
+pane	filedeliverer	2	:zsh	1	:*	1	:/home/kaarebs/Projects/file_deliverer	1	zsh	:
+pane	filedeliverer	3	:zsh	0	:#	1	:/home/kaarebs/Projects/system-deploy/Application	1	zsh	:
+pane	kplan	1	:com.run	0	: 	1	:/home/kaarebs/Projects/kplanner	1	zsh	:
+pane	kplan	2	:edit	1	:*	1	:/home/kaarebs/Projects/kplanner	1	vim	:vim
+pane	kplan	3	:cmd	0	:-	1	:/home/kaarebs/Projects/kplanner/src/services	1	vim	:vim
+pane	kplan	4	:redis	0	: 	1	:/home/kaarebs/kaarebs/redis/src	1	zsh	:
+pane	poi	1	:cmd	0	:-	1	:/home/kaarebs/Projects/poi	1	zsh	:
+pane	poi	2	:ssh	1	:*	1	:/home/kaarebs/Projects/poi/Configuration/Production	1	zsh	:
+pane	renderclient	1	:vim	1	:*	1	:/home/kaarebs/Projects/ruby-renderclient	1	vim	:vim
+pane	renderclient	3	:runner	0	:#-	1	:/home/kaarebs/Projects/ruby-renderclient	1	zsh	:
+pane	renderserver	1	:vim	0	:-	1	:/home/kaarebs/Projects/renderserver	1	vim	:vim
+pane	renderserver	2	:cmd	1	:*	1	:/home/kaarebs/Projects/renderserver	1	zsh	:
+pane	systemet	1	:vim	0	:-	1	:/home/kaarebs/Projects/system-deploy	1	zsh	:vim
+pane	systemet	2	:js	1	:*	1	:/home/kaarebs/Projects/system-deploy	1	zsh	:
+pane	systemet	3	:log	0	:#	1	:/home/kaarebs/Projects/system-deploy/Application	1	tail	:tail
+pane	tweaker2	1	:vim	1	:*	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application	1	vim	:vim
+pane	tweaker2	2	:frontend	0	:#-	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend	1	vim	:vim
+pane	tweaker2	3	:compile	0	:#	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app	1	vim	:vim
+pane	tweaker2	4	:ssh	0	:#	1	:/home/kaarebs/Projects/newtweaker2/Configuration/Development	1	zsh	:
+pane	tweakerprocessor	1	:vim	1	:*	1	:/home/kaarebs/Projects/tweaker_processor	1	vim	:vim
+pane	voiceselector	1	:vim-admin	1	:*	1	:/home/kaarebs/Projects/voiceselector	1	zsh	:
+pane	voiceselector	2	:rails	0	: 	1	:/home/kaarebs/Projects/voiceselector	1	zsh	:
+pane	voiceselector	3	:grunt	0	:#	1	:/home/kaarebs/Projects/voiceselector/app/frontend/admin	1	grunt	:grunt
+pane	voiceselector	4	:client	0	:-	1	:/home/kaarebs/Projects/voiceselector/app/assets	1	vim	:vim
+pane	voiceselector	5	:console	0	: 	1	:/home/kaarebs/Projects/voiceselector	1	zsh	:
+pane	voiceselector	6	:css	0	:#	1	:/home/kaarebs/Projects/voiceselector/app/assets/stylesheets	1	vim	:vim
+pane	voiceselector	7	:backend	0	:#	1	:/home/kaarebs/Projects/voiceselector/app/models	1	vim	:vim
+pane	voiceselector	8	:live	0	: 	1	:/home/kaarebs/Projects/voiceselector	1	zsh	:
+window	0	1	1	:*	bbdd,239x62,0,0,0
+window	14	1	1	:*	5e27,239x62,0,0,37
+window	16	1	1	:*	5e29,239x62,0,0,39
+window	combine	1	1	:*	de27,239x62,0,0,28
+window	default	1	1	:*	ae5e,80x23,0,0,1
+window	filedeliverer	1	0	:-	b719,239x62,0,0{119x62,0,0,30,119x62,120,0,31}
+window	filedeliverer	2	1	:*	5e22,239x62,0,0,32
+window	filedeliverer	3	0	:#	5e23,239x62,0,0,33
+window	kplan	1	0	: 	ae5f,80x23,0,0,2
+window	kplan	2	1	:*	ae60,80x23,0,0,3
+window	kplan	3	0	:-	ae61,80x23,0,0,4
+window	kplan	4	0	: 	ae62,80x23,0,0,5
+window	poi	1	0	:-	ae63,80x23,0,0,6
+window	poi	2	1	:*	ae64,80x23,0,0,7
+window	renderclient	1	1	:*	b445,170x42,0,0,8
+window	renderclient	3	0	:#-	b446,170x42,0,0,9
+window	renderserver	1	0	:-	575f,80x23,0,0,10
+window	renderserver	2	1	:*	5760,80x23,0,0,11
+window	systemet	1	0	:-	5e21,239x62,0,0,12
+window	systemet	2	1	:*	5e22,239x62,0,0,13
+window	systemet	3	0	:#	5e23,239x62,0,0,14
+window	tweaker2	1	1	:*	5e24,239x62,0,0,15
+window	tweaker2	2	0	:#-	5e25,239x62,0,0,16
+window	tweaker2	3	0	:#	5e26,239x62,0,0,17
+window	tweaker2	4	0	:#	5e27,239x62,0,0,18
+window	tweakerprocessor	1	1	:*	5768,80x23,0,0,19
+window	voiceselector	1	1	:*	d75f,80x23,0,0,20
+window	voiceselector	2	0	: 	d760,80x23,0,0,21
+window	voiceselector	3	0	:#	d761,80x23,0,0,22
+window	voiceselector	4	0	:-	d762,80x23,0,0,23
+window	voiceselector	5	0	: 	d763,80x23,0,0,24
+window	voiceselector	6	0	:#	d764,80x23,0,0,25
+window	voiceselector	7	0	:#	d765,80x23,0,0,26
+window	voiceselector	8	0	: 	d766,80x23,0,0,27
+state	renderclient	systemet

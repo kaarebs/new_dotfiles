@@ -1,0 +1,43 @@
+pane	default	1	:vim	1	:*	1	:/home/kaarebs/kaarebs/dotvim/setup	1	zsh	:
+pane	default	2	:cmd	0	:#-	1	:/home/kaarebs/kaarebs	1	zsh	:
+pane	kplan	1	:com.run	0	:#	1	:/home/kaarebs/Projects/kplanner	1	zsh	:
+pane	kplan	2	:edit	1	:*	1	:/home/kaarebs/Projects/kplanner	1	vim	:vim
+pane	kplan	3	:cmd	0	:#-	1	:/home/kaarebs/Projects/kplanner/src/services	1	zsh	:vim
+pane	kplan	4	:redis	0	:#	1	:/home/kaarebs/kaarebs/redis/src	1	zsh	:
+pane	poi	1	:vim	1	:*	1	:/home/kaarebs/Projects/poi/Configuration/Production	1	zsh	:
+pane	renderclient	1	:vim	1	:*	1	:/home/kaarebs/Projects/ruby-renderclient	1	zsh	:
+pane	renderclient	2	:execu	0	: 	1	:/tmp/home	1	zsh	:
+pane	renderclient	3	:runner	0	:#-	1	:/home/kaarebs/Projects/ruby-renderclient	1	zsh	:
+pane	renderserver	1	:vim	0	:-	1	:/home/kaarebs/Projects/renderserver	1	vim	:vim
+pane	renderserver	2	:cmd	1	:*	1	:/home/kaarebs/Projects/renderserver	1	zsh	:
+pane	tweaker2	1	:vim	1	:*	1	:/home/kaarebs/Projects/newtweaker2/Configuration/Development	1	vim	:vim
+pane	tweaker2	2	:frontend	0	:#-	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend	1	zsh	:
+pane	tweaker2	3	:compile	0	:#	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app	1	node	:node
+pane	tweaker2	4	:zsh	0	:#	1	:/home/kaarebs/Projects/newtweaker2/Packages/Application/ArnsboMedia.VideoSystem.Tweaker/Resources/Public/Frontend/src/js/app/models/VideoSystem/Operations	1	zsh	:
+pane	voiceselector	1	:vim-admin	1	:*	1	:/home/kaarebs/Projects/voiceselector/app/frontend/admin/app	1	vim	:vim
+pane	voiceselector	2	:rails	0	:#	1	:/home/kaarebs/Projects/voiceselector	1	ruby	:ruby
+pane	voiceselector	3	:grunt	0	:#-	1	:/home/kaarebs/Projects/voiceselector/app/frontend/admin	1	grunt	:grunt
+pane	voiceselector	4	:client	0	:#	1	:/home/kaarebs/Projects/voiceselector/app/assets/javascripts	1	vim	:vim
+pane	voiceselector	5	:console	0	:#	1	:/home/kaarebs/Projects/voiceselector	1	zsh	:
+window	default	1	1	:*	e994,194x49,0,0,25
+window	default	2	0	:#-	e995,194x49,0,0,26
+window	kplan	1	0	:#	6995,194x49,0,0,16
+window	kplan	2	1	:*	6997,194x49,0,0,18
+window	kplan	3	0	:#-	6998,194x49,0,0,19
+window	kplan	4	0	:#	e993,194x49,0,0,24
+window	poi	1	1	:*	e550,174x47,0,0,21
+window	renderclient	1	1	:*	e991,194x49,0,0,22
+window	renderclient	2	0	: 	e992,194x49,0,0,23
+window	renderclient	3	0	:#-	6992,194x49,0,0,32
+window	renderserver	1	0	:-	6993,194x49,0,0,33
+window	renderserver	2	1	:*	6994,194x49,0,0,34
+window	tweaker2	1	1	:*	d2be,194x49,0,0,1
+window	tweaker2	2	0	:#-	d2bf,194x49,0,0,2
+window	tweaker2	3	0	:#	d2c6,194x49,0,0,9
+window	tweaker2	4	0	:#	698f,194x49,0,0,10
+window	voiceselector	1	1	:*	d2c5,194x49,0,0,8
+window	voiceselector	2	0	:#	6990,194x49,0,0,11
+window	voiceselector	3	0	:#-	6991,194x49,0,0,12
+window	voiceselector	4	0	:#	6992,194x49,0,0,13
+window	voiceselector	5	0	:#	e998,194x49,0,0,29
+state	renderserver	renderserver

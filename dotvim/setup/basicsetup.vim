@@ -96,9 +96,14 @@ if v:version >= 703
     set colorcolumn=+1 "mark the ideal max text width
 endif
 
-"open files with <leader>f
-map <leader>f :CommandTFlush<cr>\|:CommandT<cr>
-" Open files, limited to the directory of the current file, with <leader>gf
-map <leader>gdf :CommandTFlush<cr>\|:CommandT %%<cr>
+" ctrlp
+let g:ctrlp_working_path_mode = 0
+" greplace
+set grepprg=ag
+let g:grep_cmd_opts = '--line-numbers --noheading'
+
+" google calendar
+let g:calendar_google_calendar = 1
+let g:calendar_google_task = 1
 
 let delimitMate_expand_cr = 1
