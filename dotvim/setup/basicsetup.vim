@@ -1,7 +1,7 @@
 let mapleader = ","
 set nocompatible                  " Must come first because it changes other options.
 set timeout timeoutlen=1000 ttimeoutlen=100
-
+let g:spotify_country_code = 'GB'
 syntax enable                     " Turn on syntax highlighting.
 filetype plugin indent on         " Turn on file type detection.
 
@@ -24,7 +24,8 @@ set ruler                         " Show cursor position.
 set incsearch                     " Highlight matches as you type.
 set hlsearch                      " Highlight matches.
 
-
+" HARDTIME
+let g:hardtime_default_on = 1
 
 " highlight current line
 set cursorline
@@ -107,3 +108,10 @@ let g:calendar_google_calendar = 1
 let g:calendar_google_task = 1
 
 let delimitMate_expand_cr = 1
+
+" now I want to be angry
+noremap <Up> <NOP>
+noremap <Down> <NOP>
+noremap <Left> <NOP>
+noremap <Right> <NOP>
+

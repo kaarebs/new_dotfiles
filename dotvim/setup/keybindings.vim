@@ -69,3 +69,13 @@ set laststatus=2 statusline=%02n:%<%f\ %h%m%r%=%-14.(%l,%c%V%)\ %P
 
 " lorte binding
 nnoremap <tab><tab>r :!xdg-open "http://www.youtube.com/watch?v=Eky6bCnCLOI\#t=171"<cr>
+
+" adds vim-tmux-navigation
+let g:tmux_navigator_no_mappings = 1
+nnoremap <silent> <c-h> :TmuxNavigateLeft<cr>
+nnoremap <silent> <c-j> :TmuxNavigateDown<cr>
+nnoremap <silent> <c-k> :TmuxNavigateUp<cr>
+nnoremap <silent> <c-l> :TmuxNavigateRight<cr>
+
+" smart ag search
+nnoremap <leader>ag :Ag <c-r>=expand("<cword>")<cr><Enter>")
